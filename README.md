@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apna AI - Full-Stack SaaS Application
 
 A modern, full-featured SaaS web application with AI-powered chat and code generation capabilities, built with React, TypeScript, Tailwind CSS, and Clerk Authentication.
@@ -157,3 +158,7 @@ For support, email support@apnaai.com or join our community Discord.
 ---
 
 Built with ❤️ by the Apna AI Team
+=======
+# apna-ai
+Website that provide ai to do your task on website
+>>>>>>> e8fe1abc9ea1c294378778491156513afb23bd67
