@@ -157,8 +157,8 @@ For support, email support@apnaai.com or join our community Discord.
 
 ---
 
-Built with ❤️ by the Apna AI Team
+Built with ❤️ by Soumen
 =======
 # apna-ai
-Website that provide ai to do your task on website
->>>>>>> e8fe1abc9ea1c294378778491156513afb23bd67
+>>>>>>> Website that provide Ai tools online to do your task!!
+
