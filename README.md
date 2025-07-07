@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<
 # Apna AI - Full-Stack SaaS Application
 
 A modern, full-featured SaaS web application with AI-powered chat and code generation capabilities, built with React, TypeScript, Tailwind CSS, and Clerk Authentication.
